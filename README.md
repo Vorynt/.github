@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" height="auto" alt="Vorynt Banner"/>
+<img src="./assets/banner.png" width="100%" alt="Vorynt Banner"/>
 
 <br/>
 <br/>
@@ -9,21 +9,21 @@
 
 <img src="./assets/logo.svg" width="90"/>
 
-# Engineering Digital Excellence
+# Engenharia Digital com Excelência
 
-### Building scalable software, digital products and modern digital experiences.
+### Desenvolvendo softwares escaláveis, produtos digitais e experiências modernas.
 
 <p>
   <a href="https://vorynt.com">
     <img src="https://img.shields.io/badge/Website-0A66FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/company/vorynt">
+  <a href="https://linkedin.com/in/viniciussantos31">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:contact@vorynt.com">
-    <img src="https://img.shields.io/badge/Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:vncssnts31@gmail.com">
+    <img src="https://img.shields.io/badge/Contato-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </p>
@@ -43,32 +43,34 @@
 
 ---
 
-# Who We Are
+# 👋 Quem Somos
 
-Vorynt is a software engineering company dedicated to building modern digital products with a strong focus on scalability, performance and exceptional user experience.
+A **Vorynt** é uma empresa de engenharia de software especializada na criação de produtos digitais modernos, com foco em **escalabilidade**, **performance**, **segurança** e **experiência do usuário**.
 
-We help companies transform ideas into reliable software through engineering excellence.
+Acreditamos que tecnologia de qualidade nasce da combinação entre boas práticas de engenharia, arquitetura sólida e atenção aos detalhes.
+
+Nosso propósito é transformar ideias em soluções digitais confiáveis que impulsionam negócios.
 
 ---
 
-# What We Build
+# 🚀 O que Desenvolvemos
 
 <table>
 <tr>
 
 <td width="50%">
 
-## 🚀 Digital Products
+### 💙 Produtos Digitais
 
-Modern SaaS platforms built for growth.
+Plataformas SaaS modernas, desenvolvidas para crescer junto com o negócio.
 
 </td>
 
 <td width="50%">
 
-## 🏢 Enterprise Software
+### 🏢 Sistemas Corporativos
 
-ERP, CRM and internal management systems.
+ERPs, CRMs e sistemas internos personalizados para empresas.
 
 </td>
 
@@ -78,17 +80,17 @@ ERP, CRM and internal management systems.
 
 <td>
 
-## ⚡ Automation
+### ⚡ Automação
 
-Business automation and workflow optimization.
+Automação de processos, integrações e otimização de fluxos de trabalho.
 
 </td>
 
 <td>
 
-## ☁ Cloud Solutions
+### ☁️ Soluções em Nuvem
 
-Cloud-native applications designed to scale.
+Aplicações Cloud Native preparadas para alta disponibilidade e escalabilidade.
 
 </td>
 
@@ -98,32 +100,28 @@ Cloud-native applications designed to scale.
 
 ---
 
-# Engineering Culture
+# 🏗️ Nossa Cultura de Engenharia
 
-✔ Clean Architecture
+Construímos software seguindo princípios modernos de desenvolvimento.
 
-✔ Design Systems
-
-✔ Feature-Based Architecture
-
-✔ Accessibility
-
-✔ Performance
-
-✔ Security
-
-✔ Automated Testing
-
-✔ CI/CD
-
-✔ Developer Experience
+- ✔ Arquitetura Limpa (Clean Architecture)
+- ✔ Design Systems
+- ✔ Arquitetura Feature-Based
+- ✔ Código Limpo
+- ✔ Escalabilidade
+- ✔ Performance
+- ✔ Segurança
+- ✔ Acessibilidade
+- ✔ Testes Automatizados
+- ✔ Integração e Entrega Contínua (CI/CD)
+- ✔ Experiência do Desenvolvedor (DX)
 
 ---
 
-# Technology Stack
+# 💻 Stack Tecnológica
 
-| Frontend | Backend | Cloud |
-|----------|----------|----------|
+| Front-end | Back-end | Cloud |
+|-----------|-----------|-----------|
 | React | Node.js | AWS |
 | Next.js | NestJS | Docker |
 | TypeScript | PostgreSQL | Vercel |
@@ -132,43 +130,54 @@ Cloud-native applications designed to scale.
 
 ---
 
-# Open Source
+# 🌎 Open Source
 
-Our organization is home to reusable tools and projects that improve developer productivity.
+Acreditamos que compartilhar conhecimento fortalece toda a comunidade.
 
-- Design Systems
-- UI Libraries
-- Starter Kits
-- Boilerplates
-- CLI Tools
-- Internal Packages
-- Experiments
+Nesta organização você encontrará projetos como:
+
+- 🎨 Design Systems
+- 📦 Bibliotecas de Componentes
+- 🚀 Templates
+- 🛠️ Boilerplates
+- ⚙️ Ferramentas para Desenvolvedores
+- 📚 Documentações
+- 🧪 Projetos Experimentais
+- ❤️ Projetos Open Source
 
 ---
 
-# Our Principles
+# 🎯 Nossos Princípios
 
-> Software is more than code.
+> **Software vai muito além de escrever código.**
 
-We believe software should be:
+Cada solução desenvolvida pela Vorynt busca ser:
 
-- Simple.
-- Fast.
-- Reliable.
-- Accessible.
-- Beautiful.
-- Maintainable.
+- Simples
+- Escalável
+- Confiável
+- Segura
+- Performática
+- Acessível
+- Bem documentada
+- Fácil de evoluir
+
+---
+
+# 🤝 Vamos Construir Algo Incrível
+
+Se você procura um parceiro para desenvolver soluções digitais modernas e escaláveis, estamos prontos para transformar sua ideia em realidade.
 
 ---
 
 <div align="center">
 
-## Let's build something amazing.
-
 <img src="./assets/logo-icon.svg" width="70"/>
 
-**VORYNT**
+## **VORYNT**
 
-Engineering Digital Excellence
+### Engenharia Digital com Excelência
+
+<sub>Transformando ideias em software de alta qualidade.</sub>
 
 </div>

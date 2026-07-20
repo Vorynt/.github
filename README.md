@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Vorynt Banner"/>
+<img src="./assets/banner.png" width="100%" height="auto" alt="Vorynt Banner"/>
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 <img src="./assets/logo.svg" width="90"/>
